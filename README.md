@@ -61,3 +61,5 @@ Given an array of integers, replace every element with the next greatest element
     }
 ```
 
+[完整代码](https://github.com/YoungBear/LintCode/blob/master/src/com/ysx/lintcode/practice2017/MinStack.java)
+
