@@ -10,7 +10,12 @@ public class SumKEvenPalindrome {
 
     public static void main(String[] args) {
         SumKEvenPalindrome test = new SumKEvenPalindrome();
-        System.out.println(test.sumKEven(99));
+        System.out.println(test.sumKEven(3));
+//        for (int i = 0; i < 100; i++) {
+//            System.out.println("i: " + i + ", number: " + test.getNthPalindrome(i));
+//        }
+//        System.out.println(test.getNthPalindrom(11));
+//        System.out.println(test.getNthPalindrom(1));
     }
 
     /**
@@ -18,25 +23,40 @@ public class SumKEvenPalindrome {
      * @return: the sum of first k even-length palindrome numbers
      */
     public int sumKEven(int k) {
-        int n = (int) Math.log10(k + 1);
-        System.out.println("n: " + n);
+        int result = 0;
+        for (int i = 1; i <= k; i++) {
+            result += getNthPalindrome(i);
+        }
+        return result;
 
-        int sum = 0;
-        /**
-         * 先计算f(10^n - 1)的值
-         */
-        int temp1 = (int) (45 * Math.pow(10, n - 1));
-        int temp2 = (int) (10 * (Math.pow(100, n) - 1) / 99 + n);
-        System.out.println(temp1 + "  " + temp2);
-        int sub1 = (int) (45 * Math.pow(10, n - 1) * ((10 * (Math.pow(100, n) - 1)) / 99 + n));
+    }
 
-        int sub2Count = (int) (k - Math.pow(10, n) + 1);
-        System.out.println("sub2Count: " + sub2Count);
+    /**
+     * 获取第n个偶数位的回文数
+     * 默认f(0) = 0
+     * @param n
+     * @return
+     */
+    public int getNthPalindrome(int n) {
+        if (n == 0) {
+            return 0;
+        }
+        int m = (int) Math.log10(n);
+//        System.out.println("m: " + m);
+        int temp1 = (int) (n / Math.pow(10, m));
+        int temp2 = (int) (Math.pow(10, 2 * m + 1) + 1);
+//        System.out.println("temp1: " + temp1 + ", temp2: " + temp2);
+//        System.out.println("temp1: " + temp1 + ", temp2: " + temp2);
+//        int sub1= (int) (n / Math.pow(10, m) * (Math.pow(10, 2 * m + 1) + 1));
+        int sub1 = temp1 * temp2;
+        int sub2 = 10 * getNthPalindrome((int) (n % Math.pow(10, m)));
+//        System.out.println("sub1: " + sub1 + ", sub2: " + sub2);
+        int result = sub1 + sub2;
+        return result;
+//        double v = n / Math.pow(10, m) * (Math.pow(10, 2 * m + 1) + 1)
+//                + 10 * getNthPalindrom((int) (n % Math.pow(10, m)));
+//        return (int) v;
 
-        sum += sub1;
-        System.out.println("sum: " + sum);
-
-        return sum;
 
     }
 
