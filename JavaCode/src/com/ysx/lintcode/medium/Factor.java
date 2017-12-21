@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017.medium;
+package com.ysx.lintcode.medium;
 
 /**
  * 728. 3个不同的因子

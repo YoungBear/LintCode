@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017;
+package com.ysx.lintcode;
 
 import java.util.LinkedList;
 import java.util.List;

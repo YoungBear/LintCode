@@ -1,6 +1,5 @@
-package com.ysx.lintcode.practice2017.easy;
+package com.ysx.lintcode.easy;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017;
+package com.ysx.lintcode;
 
 /**
  * http://www.lintcode.com/zh-cn/problem/kth-largest-element/

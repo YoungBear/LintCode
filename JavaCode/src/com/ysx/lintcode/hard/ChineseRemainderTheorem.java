@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017.hard;
+package com.ysx.lintcode.hard;
 
 /**
  * 中国剩余定理

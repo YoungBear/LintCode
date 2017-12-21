@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017.medium;
+package com.ysx.lintcode.medium;
 
 /**
  * 734. 形式为a^i b^j c^k的子序列数量

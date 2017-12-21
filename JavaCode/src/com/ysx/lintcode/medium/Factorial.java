@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017.medium;
+package com.ysx.lintcode.medium;
 
 /**
  * http://www.lintcode.com/zh-cn/problem/last-digit-by-factorial-divide/

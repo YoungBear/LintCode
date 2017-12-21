@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017;
+package com.ysx.lintcode;
 
 public class MinStackTest {
     public static void main(String[] args) {

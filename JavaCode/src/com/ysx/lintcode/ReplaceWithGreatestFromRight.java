@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017;
+package com.ysx.lintcode;
 
 /**
  * 替换数组中的元素，使用该位置右边的最大的值来替换该位置的值。

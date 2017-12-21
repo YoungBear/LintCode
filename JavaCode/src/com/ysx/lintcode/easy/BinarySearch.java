@@ -1,4 +1,4 @@
-package com.ysx.lintcode.practice2017.easy;
+package com.ysx.lintcode.easy;
 
 /**
  * 二分查找
