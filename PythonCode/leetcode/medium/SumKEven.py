@@ -15,11 +15,12 @@ class Solution:
     def sumKEven(self, k):
         result = 0
         for i in range(1, k + 1):
-            s1 = str(i)
+            # 转换为字符串
+            str1 = str(i)
             # 翻转字符串
-            s2 = s1[::-1]
+            revstr1 = str1[::-1]
             # 拼接两个字符串并转换为整数型
-            cur = int(s1 + s2)
+            cur = int(str1 + revstr1)
             # print(cur)
             # 添加到结果中
             result = result + cur

@@ -25,10 +25,10 @@ public class SumKEvenPalindrome {
     public int sumKEven(int k) {
         int sum = 0;
         for (int i = 0; i <= k; i++) {
-            String s = String.valueOf(i);
-            String s2 = s + new StringBuilder().append(s).reverse().toString();
-            int cur = Integer.parseInt(s2);
-            System.out.println("i: " + i + ", cur: " + cur);
+            String str = String.valueOf(i);
+            String revstr = str + new StringBuilder().append(str).reverse().toString();
+            int cur = Integer.parseInt(revstr);
+//            System.out.println("i: " + i + ", cur: " + cur);
             sum += cur;
         }
         return sum;
