@@ -33,7 +33,7 @@ public class DeleteDuplicates {
         }
 
         ListNode pa = test.deleteDuplicates(p);
-        System.out.println("before...");
+        System.out.println("after...");
         for (ListNode q = pa; q != null; q = q.next) {
             System.out.println(q.val);
         }
@@ -45,8 +45,7 @@ public class DeleteDuplicates {
      * @return: head of linked list
      */
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode p = head;
-        for (; p != null; p = p.next) {
+        for (ListNode p = head; p != null; p = p.next) {
             int val = p.val;
             ListNode q = p.next;
             while (q != null && q.val == val) {
