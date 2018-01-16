@@ -1,10 +1,10 @@
-package com.ysx.lintcode;
+package com.ysx.lintcode.medium;
 
 import java.util.LinkedList;
 import java.util.List;
 
 /**
- * 带最小值操作的栈
+ * 12. 带最小值操作的栈
  * http://www.lintcode.com/zh-cn/problem/min-stack/
  */
 public class MinStack {

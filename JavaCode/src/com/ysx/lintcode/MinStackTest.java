@@ -1,5 +1,7 @@
 package com.ysx.lintcode;
 
+import com.ysx.lintcode.medium.MinStack;
+
 public class MinStackTest {
     public static void main(String[] args) {
         MinStack minStack = new MinStack();

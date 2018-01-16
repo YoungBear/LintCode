@@ -1,8 +1,8 @@
-package com.ysx.lintcode;
+package com.ysx.lintcode.medium;
 
 /**
+ * 5. 第k大元素
  * http://www.lintcode.com/zh-cn/problem/kth-largest-element/
- * 第k大元素
  */
 public class LargestK {
 

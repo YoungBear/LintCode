@@ -1,7 +1,7 @@
-package com.ysx.lintcode;
+package com.ysx.lintcode.medium;
 
 /**
- * 替换数组中的元素，使用该位置右边的最大的值来替换该位置的值。
+ * 735. 替换数组中的元素，使用该位置右边的最大的值来替换该位置的值。
  * 最后一个元素用-1替换
  * <p>
  * http://www.lintcode.com/zh-cn/problem/replace-with-greatest-from-right/

@@ -1,4 +1,4 @@
-package com.ysx.leetcode.medium;
+package com.ysx.leetcode.easy;
 
 /**
  * 746. Min Cost Climbing Stairs
