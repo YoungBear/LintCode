@@ -28,5 +28,4 @@ fun main(args: Array<String>) {
     for (i in result) {
         println(i)
     }
-    booleanArrayOf()
 }
