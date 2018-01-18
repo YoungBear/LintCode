@@ -2,6 +2,8 @@
 
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
 
+[LintCode 761. Smallest Subset](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/761_SmallestSubset.md)
+
 [LintCode 744. Sum of first K even-length Palindrome numbers 返回前k个位数长度为偶数的回文数的和](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/744_SumKEvenPalindrome.md)
 
 [LintCode 742. Digit Divide Numbers 可以被每一位的数所整除的数](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/742_IsDigitDivideNum.md)
