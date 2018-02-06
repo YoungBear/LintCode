@@ -12,3 +12,6 @@ var PRIME_SET = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31];
 console.log(PRIME_SET.indexOf(1));
 console.log(PRIME_SET.indexOf(2));
 
+var arrA = [1, 2, 2, 1];
+console.log(4 in arrA);
+
