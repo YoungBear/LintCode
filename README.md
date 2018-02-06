@@ -2,6 +2,8 @@
 
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
 
+[LintCode 793. Intersection of Arrays 求数组的交集的size](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/793_IntersectionOfArrays.md)
+
 [LintCode 761. Smallest Subset](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/761_SmallestSubset.md)
 
 [LintCode 744. Sum of first K even-length Palindrome numbers 返回前k个位数长度为偶数的回文数的和](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/744_SumKEvenPalindrome.md)
@@ -16,15 +18,17 @@
 
 [LintCode 728. 3个不同的因子](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/728_ThreeDisctFactors.md)
 
-[LintCode 12. 带最小值操作的栈](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/12_MinStack.md)
-
 [LintCode 14. 二分查找](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/easy/14_BinarySearch.md)
+
+[LintCode 12. 带最小值操作的栈](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/12_MinStack.md)
 
 ## [<font color=red>LeetCode 算法练习</font>](https://leetcode.com/problemset/algorithms/)
 
-[LeetCode 9. Palindrome Number 回文数 LintCode 491. 回文数](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/9_PalindromeNumber.md)
-
-[LeetCode 746. Min Cost Climbing Stairs](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/746_MinCostClimbingStairs.md)
 
 [LeetCode 762. Prime Number of Set Bits in Binary Representation](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/762_CountPrimeSetBits.md)
 
+[LeetCode 746. Min Cost Climbing Stairs](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/746_MinCostClimbingStairs.md)
+
+[LeetCode 349. Intersection of Two Arrays](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/349_IntersectionOfTwoArrays.md)
+
+[LeetCode 9. Palindrome Number 回文数 LintCode 491. 回文数](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/9_PalindromeNumber.md)
