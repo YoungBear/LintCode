@@ -4,6 +4,8 @@
 
 [LintCode 793. Intersection of Arrays 求数组的交集的size](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/793_IntersectionOfArrays.md)
 
+[LintCode 792.Kth Prime Number 判断素数n是第几个素数](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/easy/792_KthPrimeNumber.md)
+
 [LintCode 761. Smallest Subset](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/761_SmallestSubset.md)
 
 [LintCode 744. Sum of first K even-length Palindrome numbers 返回前k个位数长度为偶数的回文数的和](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/744_SumKEvenPalindrome.md)
