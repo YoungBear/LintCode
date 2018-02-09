@@ -1,5 +1,9 @@
 ### [LintCode 114. 不同的路径](http://www.lintcode.com/zh-cn/problem/unique-paths/)
 
+**相关问题：**
+
+[LintCode 115. 不同的路径 II](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/)
+
 **题目描述：**
 
 有一个机器人的位于一个 m × n 个网格左上角。
