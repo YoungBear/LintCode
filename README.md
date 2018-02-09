@@ -20,6 +20,8 @@
 
 [LintCode 728. 3个不同的因子](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/728_ThreeDisctFactors.md)
 
+[LintCode 114. 不同的路径](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/easy/114_UniquePaths.md)
+
 [LintCode 14. 二分查找](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/easy/14_BinarySearch.md)
 
 [LintCode 12. 带最小值操作的栈](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/12_MinStack.md)
