@@ -1,7 +1,7 @@
 package com.ysx.lintcode.easy;
 
 /**
- * 60. 搜索插入位置
+ * Lintcode 60. 搜索插入位置
  * http://www.lintcode.com/zh-cn/problem/search-insert-position/
  */
 public class SearchInsert {
