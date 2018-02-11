@@ -24,6 +24,8 @@
 
 [LintCode 114. 不同的路径](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/easy/114_UniquePaths.md)
 
+[Lintcode 64. 合并排序数组](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/easy/64_MergeSortedArray.md)
+
 [LintCode 14. 二分查找](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/easy/14_BinarySearch.md)
 
 [LintCode 12. 带最小值操作的栈](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/12_MinStack.md)
