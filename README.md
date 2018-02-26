@@ -33,6 +33,8 @@
 ## [<font color=red>LeetCode 算法练习</font>](https://leetcode.com/problemset/algorithms/)
 
 
+[Leetcode: 791. Custom Sort String](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/medium/791_CustomSortString.md)
+
 [LeetCode 762. Prime Number of Set Bits in Binary Representation](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/762_CountPrimeSetBits.md)
 
 [LeetCode 746. Min Cost Climbing Stairs](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/746_MinCostClimbingStairs.md)
