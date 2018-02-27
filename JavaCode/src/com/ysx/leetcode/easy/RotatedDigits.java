@@ -8,7 +8,7 @@ public class RotatedDigits {
 
     public static void main(String[] args) {
         RotatedDigits test = new RotatedDigits();
-        System.out.println(test.rotatedDigits(10));
+        System.out.println(test.rotatedDigits(30));
 
     }
 
@@ -24,7 +24,6 @@ public class RotatedDigits {
 
     public static boolean isGoodDigit(int n) {
         int t = n;
-        int s = 1;
         boolean flag = false;
         while (t > 0) {
             int remainder = t % 10;
