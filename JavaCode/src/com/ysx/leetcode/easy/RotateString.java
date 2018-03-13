@@ -18,7 +18,17 @@ public class RotateString {
 
     }
 
+    /**
+     * B是由A旋转得到的，所以B肯定包含在A+A的字符串中
+     * @param A
+     * @param B
+     * @return
+     */
     public boolean rotateString(String A, String B) {
+        return A.length() == B.length() && (A + A).contains(B);
+    }
+
+    public boolean rotateString_old(String A, String B) {
         if (null == A || null == B || A.length() != B.length()) {
             return false;
         }

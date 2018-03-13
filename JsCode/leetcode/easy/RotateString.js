@@ -6,6 +6,10 @@
  * @return {boolean}
  */
 var rotateString = function(A, B) {
+    return A.length === B.length && (A + A).indexOf(B) !== -1;
+};
+
+var rotateString_old = function(A, B) {
     if (A.length !== B.length) {
         return false;
     }

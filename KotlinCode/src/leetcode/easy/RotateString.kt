@@ -6,6 +6,10 @@ package leetcode.easy
  */
 class RotateString{
     fun rotateString(A: String, B: String): Boolean {
+        return A.length == B.length && (A + A).contains(B)
+    }
+
+    fun rotateString_old(A: String, B: String): Boolean {
         if (A.length != B.length) {
             return false
         }
