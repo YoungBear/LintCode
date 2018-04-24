@@ -15,6 +15,7 @@ import java.util.Set;
  * Leetcode 804. Unique Morse Code Words
  * https://leetcode.com/problems/unique-morse-code-words/description/
  */
+
 public class UniqueMorseCodeWords {
     public static final Map<Character, String> LETTER_MAP = new HashMap<>();
 
