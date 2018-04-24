@@ -1,3 +1,5 @@
+[对应项目github地址](https://github.com/YoungBear/LintCode)
+
 # LintCode 与 LeetCode 练习
 
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
