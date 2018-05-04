@@ -34,6 +34,8 @@
 
 ## [<font color=red>LeetCode 算法练习</font>](https://leetcode.com/problemset/algorithms/)
 
+[Leetcode 806. Number of Lines To Write String](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/806_NumberOfLines.md)
+
 [Leetcode 804. Unique Morse Code Words](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/804_UniqueMorseCodeWords.md)
 
 [Leetcode 791. Custom Sort String](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/medium/791_CustomSortString.md)
