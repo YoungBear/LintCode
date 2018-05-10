@@ -34,6 +34,8 @@
 
 ## [<font color=red>LeetCode 算法练习</font>](https://leetcode.com/problemset/algorithms/)
 
+[Leetcode 830. Positions of Large Groups](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/830_LargeGroupPositions.md)
+
 [Leetcode 811. Subdomain Visit Count](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/811_SubMainVisits.md)
 
 [Leetcode 806. Number of Lines To Write String](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/806_NumberOfLines.md)
