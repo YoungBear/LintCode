@@ -34,6 +34,8 @@
 
 ## [<font color=red>LeetCode 算法练习</font>](https://leetcode.com/problemset/algorithms/)
 
+[868. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
+
 [Leetcode 830. Positions of Large Groups](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/830_LargeGroupPositions.md)
 
 [Leetcode 811. Subdomain Visit Count](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/811_SubMainVisits.md)
