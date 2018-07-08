@@ -34,7 +34,7 @@
 
 ## [<font color=red>LeetCode 算法练习</font>](https://leetcode.com/problemset/algorithms/)
 
-[868. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
+[Leetcode 868. Transpose Matrix 矩阵的转置](https://leetcode.com/problems/transpose-matrix/description/)
 
 [Leetcode 830. Positions of Large Groups](https://github.com/YoungBear/LintCode/blob/master/mdfiles/leetcode/easy/830_LargeGroupPositions.md)
 
