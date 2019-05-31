@@ -2,6 +2,8 @@
 
 # LintCode 与 LeetCode 练习
 
+[常用公共方法](./mdfiles/common/README.md)
+
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
 
 [LintCode 793. Intersection of Arrays 求数组的交集的size](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/793_IntersectionOfArrays.md)
