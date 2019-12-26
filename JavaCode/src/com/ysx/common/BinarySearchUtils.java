@@ -8,7 +8,7 @@ package com.ysx.common;
  * @github https://github.com/YoungBear
  * @description
  */
-public class SearchUtils {
+public class BinarySearchUtils {
 
     /**
      * 二分查找
