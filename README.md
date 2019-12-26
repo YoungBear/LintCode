@@ -12,6 +12,8 @@
 
 [Leetcode 141. 环形链表](./mdfiles/leetcodecn/easy/Number141.md)
 
+[Leetcode 139. 单词拆分](./mdfiles/leetcodecn/medium/Number139.md)
+
 
 
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
