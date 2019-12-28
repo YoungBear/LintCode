@@ -14,9 +14,9 @@
 
 [Leetcode 139. 单词拆分](./mdfiles/leetcodecn/medium/Number139.md)
 
-[Leetcode 146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+[Leetcode 146. LRU缓存机制](./mdfiles/leetcodecn/medium/Number146.md)
 
-
+[Leetcode 155. 最小栈](./mdfiles/leetcodecn/easy/Number155.md)
 
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
 
