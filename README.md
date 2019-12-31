@@ -20,6 +20,8 @@
 
 [Leetcode 160. 相交链表](./mdfiles/leetcodecn/easy/Leetcode160.md)
 
+[Leetcode 198. 打家劫舍](./mdfiles/leetcodecn/easy/Leetcode198.md)
+
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
 
 [LintCode 793. Intersection of Arrays 求数组的交集的size](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/793_IntersectionOfArrays.md)
