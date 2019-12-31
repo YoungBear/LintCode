@@ -24,6 +24,8 @@
 
 [Leetcode 213. 打家劫舍 II](./mdfiles/leetcodecn/medium/LeetCode213.md)
 
+[Leetcode 213. 打家劫舍 III](./mdfiles/leetcodecn/medium/LeetCode337.md)
+
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
 
 [LintCode 793. Intersection of Arrays 求数组的交集的size](https://github.com/YoungBear/LintCode/blob/master/mdfiles/lintcode/medium/793_IntersectionOfArrays.md)
