@@ -8,6 +8,8 @@
 
 ## [<font color=red>LeetCode cn 官网</font>](https://leetcode-cn.com/problemset/all/)
 
+[Leetcode 1304. 和为零的N个唯一整数](./mdfiles/leetcodecn/easy/LeetCode1304.md)
+
 [Leetcode 150. 逆波兰表达式求值](./mdfiles/leetcodecn/medium/LeetCode150.md)
 
 [Leetcode 12. 整数转罗马数字](./mdfiles/leetcodecn/medium/Number12.md)
