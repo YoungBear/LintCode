@@ -8,6 +8,8 @@
 
 ## [<font color=red>LeetCode cn 官网</font>](https://leetcode-cn.com/problemset/all/)
 
+[Leetcode 676 实现一个魔法字典](./mdfiles/leetcodecn/medium/LeetCode676.md)
+
 [Leetcode 1304. 和为零的N个唯一整数](./mdfiles/leetcodecn/easy/LeetCode1304.md)
 
 [Leetcode 150. 逆波兰表达式求值](./mdfiles/leetcodecn/medium/LeetCode150.md)
