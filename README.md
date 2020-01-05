@@ -8,6 +8,8 @@
 
 ## [<font color=red>LeetCode cn 官网</font>](https://leetcode-cn.com/problemset/all/)
 
+[Leetcode 201. 数字范围按位与](./mdfiles/leetcodecn/medium/LeetCode201.md)
+
 [Leetcode 676 实现一个魔法字典](./mdfiles/leetcodecn/medium/LeetCode676.md)
 
 [Leetcode 1304. 和为零的N个唯一整数](./mdfiles/leetcodecn/easy/LeetCode1304.md)
@@ -30,7 +32,7 @@
 
 [Leetcode 213. 打家劫舍 II](./mdfiles/leetcodecn/medium/LeetCode213.md)
 
-[Leetcode 213. 打家劫舍 III](./mdfiles/leetcodecn/medium/LeetCode337.md)
+[Leetcode 337. 打家劫舍 III](./mdfiles/leetcodecn/medium/LeetCode337.md)
 
 ## [<font color=red>LintCode 官网</font>](http://www.lintcode.com/zh-cn/problem/)
 
